@@ -1,0 +1,14 @@
+{
+  "name": "vite-plugin-react",
+  "description": "Fork of the Vite plugin for React",
+  "version": "0.0.1",
+  "author": "Christoph Nakazawa <christoph.pojer@gmail.com>",
+  "private": true,
+  "type": "module",
+  "main": "./index.ts",
+  "devDependencies": {
+    "@babel/core": "^7.20.5",
+    "@types/babel__core": "^7.1.20",
+    "react-refresh": "^0.14.0"
+  }
+}
